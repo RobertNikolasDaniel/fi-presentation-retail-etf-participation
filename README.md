@@ -133,8 +133,3 @@ Aspiring Quantitative Researcher focused on:
 - Market microstructure
 - Fixed-income relative value
 
-GitHub:
-https://github.com/RobertNikolasDaniel
-
-YouTube:
-https://www.youtube.com/channel/UCIfcZL_nh-jv-Y7_Xj3R3Bg
